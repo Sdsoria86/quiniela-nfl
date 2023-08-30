@@ -220,7 +220,7 @@
 
     <div class="heroe">
 
-        <h1>Welcome to Mikos <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>Que Onda! Mikos <3 <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>The small framework with powerful features</h2>
 
